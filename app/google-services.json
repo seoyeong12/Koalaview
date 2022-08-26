@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "183027854514",
+    "project_id": "koalaview-faf5a",
+    "storage_bucket": "koalaview-faf5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183027854514:android:486445058ade909de3edab",
+        "android_client_info": {
+          "package_name": "com.example.koalaview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183027854514-oaig33a3esurs3r8pdhaiga3lh3d1g0q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.koalaview",
+            "certificate_hash": "c0f365599fb5a4457225c5552851f0c085e7beeb"
+          }
+        },
+        {
+          "client_id": "183027854514-r1tgq1431i1bn5u90hrme895nh16o89m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2Xb5LxWuvN-9BpCfR-P28zjKpXDqkCNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "183027854514-r1tgq1431i1bn5u90hrme895nh16o89m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

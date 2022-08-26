@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KoalaView</string>
+    <string name="drawer_open">OPEN</string>
+    <string name="drawer_close">CLOSE</string>
+    <string name="process">청원서 등록 \n ↓ \n 30일 이내 50명 찬성 \n ↓ \n 7일 이내 관리자가 학교에 건의 이메일 발송 \n ↓ \n 채택 및 답변 공개 (청원요건 충족 시) </string>
+    <string name="danger">1. 청원서 작성 전에 비슷한 내용의 청원이 진행 중인지 검색해 주시기 바랍니다. 새로운 청원을 작성하는 것보다 유사한 청원에 동의해 주시면 덕성동의청원 성립 확률이 높아집니다.\n 2. 제목은 청원사항이 명확히 드러나도록 하되, 50글자 이하로 간명하게 명사절로 작성하시기 바랍니다. (예시) 컴퓨터공학전공 강의 개설에 관한 청원</string>
+    <string name="example">청원서 예시문</string>
+</resources>
